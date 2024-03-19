@@ -1,7 +1,9 @@
 ---
 title: "week11_demo_file"
 author: "Blair Wang"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 Hello world :)
