@@ -1,12 +1,21 @@
 ---
 title: "week11_demo_file"
+bibliography: "resources/references.bib"
+csl: "resources/apa.csl"
 author: "Blair Wang"
 format:
   html:
     embed-resources: true
+    css: "resources/styles.css"
 ---
 
-Hello world :)
+It is good to do business analytics within the supply chain and crypto [@hawley2016implementing; @ante2020place].
+
+
+![Poll results from Week 11 Slido on Q3](resources/poll_results.png)
+
+
+
 
 ## Quarto
 
